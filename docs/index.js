@@ -52,6 +52,7 @@ function gamePlay() {
         outMusic.play();
         window.alert("game over");
         score=0;
+        speed=3;
         inputDir = { x: 0, y: 0 };
         snakeArr = [
             { x: 10, y: 15 }

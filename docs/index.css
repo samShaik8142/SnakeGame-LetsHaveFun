@@ -10,7 +10,8 @@ body{
 #container{
     border:1.5px solid grey;
     box-shadow: 0 0 3px solid(grey);
-    background-image: url('bg1.jpg');
+    /* background-image: url('bg1.jpg'); */
+    background-image: linear-gradient(grey,pink);
     margin-top:0.5rem;
     height:85vh;
     width: 50vw;
