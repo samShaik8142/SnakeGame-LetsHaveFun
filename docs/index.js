@@ -1,5 +1,5 @@
 let bgMusic=new Audio("bg.mp3");
-let outMusic= new Audio("snakegame.mp3");
+let outMusic= new Audio("gameOver.mp3");
 let foodSound= new Audio("foodSound2.wav")
 let highScore=localStorage.getItem('score');
 
